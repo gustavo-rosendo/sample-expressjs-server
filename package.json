@@ -1,0 +1,23 @@
+{
+  "name": "sample-expressjs-server",
+  "description": "A quite simple ExpressJS server implementation with a few of its features, for study purposes only.",
+  "version": "1.0.0",
+  "main": "expressServer.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavo-rosendo/sample-expressjs-server.git"
+  },
+  "author": "Gustavo M. R. dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavo-rosendo/sample-expressjs-server/issues"
+  },
+  "homepage": "https://github.com/gustavo-rosendo/sample-expressjs-server#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
